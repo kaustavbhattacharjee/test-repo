@@ -8,4 +8,4 @@ Changed daily. Just for fun
 Is it changed daily?
 Really? I mean daily?
 Yes. This is true \n
-Belive it or not
+Believe it or not
